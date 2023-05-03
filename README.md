@@ -1,5 +1,5 @@
 <h1>I Have a Website Now!</h1>
-
+<img src="https://www.bing.com/images/search?q=discord%20logo%20modified&FORM=IQFRBA&id=E6E8FE290EF5B5CEEEDB57E290C7551F1C95B56E"/>
 <break></break>
 I so want to make this into my main personal gaming website!
 
